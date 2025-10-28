@@ -1,6 +1,6 @@
 Product & Supplier Management System
 
-A simple backend project built with Node.js, Express, and SQLite to manage products and their suppliers.
+A full stack web project built with Node.js, Express, and SQLite to manage products and their suppliers.
 
 
 
