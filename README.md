@@ -14,7 +14,7 @@ Features
 
  Setup
 ```bash
-git clone https://github.com/LayanJunaid/newtest9.git
+git clone https://github.com/afakruha2003/newtest9.git
 cd newtest9
 npm install
 node backend/server.js
@@ -46,8 +46,5 @@ frontend/
 database.sqlite
 ```
 
-👩‍💻 Author
-Layan Junaid
-Hasan Kalyoncu University — Turkey
 
 
