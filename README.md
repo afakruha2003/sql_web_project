@@ -20,7 +20,7 @@ npm install
 node backend/server.js
 Server runs at http://localhost:5000
 ```
-🧱 Tech Stack
+ Tech Stack
 Node.js
 
 Express.js
@@ -29,14 +29,14 @@ SQLite
 
 dotenv
 
-🗃️ Database
+ Database
 Two main tables:
 
 products → stores product data
 
 suppliers → linked to products via product_id foreign key
 
-📁 Structure
+ Structure
 ```bash
 backend/
  ├── config/              # Database setup
